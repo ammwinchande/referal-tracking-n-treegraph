@@ -1,7 +1,15 @@
-# Guide to checking Solutions
+# Referral JS Solution
 
-All solutions are available inside the **js folder**
+## Simple Solutions for Treegraph and Referral Tracking
 
-## View Solutions
+Fun project to get handson JS fundamentals
 
-After opening the _index.html_ on your browser of choice, check the **CONSOLE** for the Solution 1 & 2 or you can use other tools like playcode.io by pasting the solution files contents in their editors and view results
+Steps to understand the Work
+
+- Check the _**Solution_1.js**_ for Referral tracking solution and example used as a test case
+
+- Check the _**Solution_2.js**_ for Treegraph solution and example used as a test case
+
+### NOTE
+
+Feel free to use, modify or suggest better solutions
