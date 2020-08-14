@@ -1,4 +1,4 @@
-# Referral JS Solution
+# Referral Tracking & Treegraph JS Solution
 
 ## Simple Solutions for Treegraph and Referral Tracking
 
